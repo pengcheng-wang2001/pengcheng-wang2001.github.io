@@ -127,6 +127,7 @@ awards:
     url: https://viterbischool.usc.edu/news/2024/04/the-future-of-health-research-and-innovation-at-grodins-symposium/
     date: '2024-04-01'
     awarder: USC BME
+---
 
 ## About Me
 
