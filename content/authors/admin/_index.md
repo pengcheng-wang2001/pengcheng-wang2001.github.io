@@ -55,7 +55,7 @@ education:
   - area: Ph.D. in Biomedical Engineering, 2023 Fall - Now
     institution: University of Southern California
     date_start: 2023-08-21
-    date_end: Now
+    date_end: 
     summary: |
       GPA: 4.0/4.0
   - area: B.Eng. Electrical Engineering & Artificial Intelligence
