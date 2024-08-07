@@ -58,7 +58,7 @@ education:
     date_end: 
     summary: |
       GPA: 4.0/4.0
-  - area: B.Eng. EE & AI, 2018 - 2022
+  - area: B.Eng. in EE & AI, 2018 - 2022
     institution: University of Science and Technology of China
     date_start: 2018-09-01
     date_end: 2022-06-30
