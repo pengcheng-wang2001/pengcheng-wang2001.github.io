@@ -122,6 +122,11 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+awards:
+  - title: Best Posters: Next-Generation MRI
+    url: https://viterbischool.usc.edu/news/2024/04/the-future-of-health-research-and-innovation-at-grodins-symposium/
+    date: '2024-04-01'
+    awarder: USC BME
 
 ## About Me
 
