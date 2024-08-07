@@ -52,18 +52,18 @@ interests:
   - Magnetic Resonance Imaging
 
 education:
-  - area: Ph.D. in Biomedical Engineering, 2023 Fall - Now
+  - area: Ph.D. in BME, 2023 - Now
     institution: University of Southern California
     date_start: 2023-08-21
     date_end: 
     summary: |
       GPA: 4.0/4.0
-  - area: B.Eng. Electrical Engineering & Artificial Intelligence
+  - area: B.Eng. EE & AI, 2018 - 2022
     institution: University of Science and Technology of China
     date_start: 2018-09-01
     date_end: 2022-06-30
     summary: |
-      GPA: 3.54/4.0
+      GPA: 3.54/4.3
 work:
   - position: Research Assistant
     company_name: University of Southern California
