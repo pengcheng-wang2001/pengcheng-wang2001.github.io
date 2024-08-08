@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 王鹏程
+title: Peng-Cheng Wang
 
 # Name pronunciation (optional)
-name_pronunciation: Peng-Cheng Wang
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Peng-Cheng
