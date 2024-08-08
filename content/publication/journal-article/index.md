@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Advancing presurgical non-invasive molecular subgroup prediction in medulloblastoma using artificial intelligence and MRI signatures"
 authors:
 - admin
 - Robert Ford
@@ -18,23 +18,23 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "**Cancer Cell** (2024)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Global investigation of medulloblastoma has been hindered by the widespread inaccessibility of molecular subgroup testing and paucity of data. To bridge this gap, we established an international molecularly characterized database encompassing 934 medulloblastoma patients from thirteen centers across China and the United States. We demonstrate how image-based machine learning strategies have the potential to create an alternative pathway for non-invasive, presurgical, and low-cost molecular subgroup prediction in the clinical management of medulloblastoma. Our robust validation strategies—including cross-validation, external validation, and consecutive validation—demonstrate the model’s efficacy as a generalizable molecular diagnosis classifier. The detailed analysis of MRI characteristics replenishes the understanding of medulloblastoma through a nuanced radiographic lens. Additionally, comparisons between East Asia and North America subsets highlight critical management implications. We made this comprehensive dataset, which includes MRI signatures, clinicopathological features, treatment variables, and survival data, publicly available to advance global medulloblastoma research.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: AI-enabled MRI enables presurgical molecular subgroup prediction in medulloblastoma.
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: https://www.sciencedirect.com/science/article/pii/S1535610824002277?dgcid=author
+url_code: 'https://github.com/MedAI-Vision/MedAI-Brain-MB'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -45,7 +45,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [**Unsplash**](https://secure-res.craft.do/v2/9evE9tRZsDKqb2ZsX88aJxi1niGceyfkGTEiED4HUanrcm68wbNzrByGMx1vThYjy9tj52GKbBtFZQhn2woUokgUeRi5S2eHPzuN3YEufjEebEeBwFeJCfTG2yvsMgzoTvEY7VxBWDwYrtdcXR5oTw6ChuiKGz1A9EH4W2YnMHmZc4ZrKr9vnTNJ9NSxoCFrX2A2f3weMy2U3uvDZWBNF7dEcYEJq8mHCsZ5KGsLt6JSDM1BtMvyi4CqciKfcGzUZCZWUDKYzGKy54aCjcmk2jDNQoNAwTvEAj45eD667uYguZtDed/Image.jpg)'
   focal_point: ""
   preview_only: false
 
