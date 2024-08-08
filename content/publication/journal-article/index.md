@@ -6,7 +6,7 @@ authors:
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2024-07-03T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -27,7 +27,7 @@ abstract: Global investigation of medulloblastoma has been hindered by the wides
 summary: AI-enabled MRI enables presurgical molecular subgroup prediction in medulloblastoma.
 
 tags:
-- Source Themes
+- Biomedical AI
 featured: true
 
 # links:
