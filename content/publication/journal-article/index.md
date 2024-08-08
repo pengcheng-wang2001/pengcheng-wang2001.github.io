@@ -1,11 +1,13 @@
 ---
 title: "Advancing presurgical non-invasive molecular subgroup prediction in medulloblastoma using artificial intelligence and MRI signatures"
 authors:
-- admin
+- Yanran Wang
+- Pengcheng Wang
 - Robert Ford
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
+- 
 date: "2024-07-03T00:00:00Z"
 doi: ""
 
