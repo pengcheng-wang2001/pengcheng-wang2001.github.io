@@ -70,16 +70,16 @@ publishDate: '2024-07-08T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: "Cancer Cell, 2024"
+publication_short: ""
 
 abstract: Global investigation of medulloblastoma has been hindered by the widespread inaccessibility of molecular subgroup testing and paucity of data. To bridge this gap, we established an international molecularly characterized database encompassing 934 medulloblastoma patients from thirteen centers across China and the United States. We demonstrate how image-based machine learning strategies have the potential to create an alternative pathway for non-invasive, presurgical, and low-cost molecular subgroup prediction in the clinical management of medulloblastoma. Our robust validation strategies—including cross-validation, external validation, and consecutive validation—demonstrate the model’s efficacy as a generalizable molecular diagnosis classifier. The detailed analysis of MRI characteristics replenishes the understanding of medulloblastoma through a nuanced radiographic lens. Additionally, comparisons between East Asia and North America subsets highlight critical management implications. We made this comprehensive dataset, which includes MRI signatures, clinicopathological features, treatment variables, and survival data, publicly available to advance global medulloblastoma research.
   
 # Summary. An optional shortened abstract.
-summary: AI-enabled MRI enables presurgical molecular subgroup prediction in medulloblastoma.
+summary: AI-enabled MRI enables presurgical molecular subgroup prediction in medulloblastoma
 
 tags: []
 
@@ -94,7 +94,7 @@ featured: true
 url_pdf: 'https://www.sciencedirect.com/science/article/pii/S1535610824002277?ref=pdf_download&fr=RR-2&rr=8b25b04baf6f14f0'
 url_code: 'https://github.com/MedAI-Vision/MedAI-Brain-MB'
 url_dataset: 'https://cbtn.org/'
-url_video: 'https://www.sciencedirect.com/science/article/pii/S1535610824002277?ref=pdf_download&fr=RR-2&rr=8b25b04baf6f14f0#mmc4'
+url_video: 'https://ars.els-cdn.com/content/image/1-s2.0-S1535610824002277-mmc4.mp4'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
