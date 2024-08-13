@@ -35,11 +35,11 @@ interests:
 education:
   courses:
     - course:  Ph.D. in Biomedical Engineering
-      institution: University of Southern California, Los Angeles, USA
+      institution: University of Southern California
       year: 2023 - Now
     - course: B.Eng., Electrical Engineering
-      institution: University of Science and Technology of China, Hefei, China
-      year: 2022
+      institution: University of Science and Technology of China
+      year: 2018 - 2022
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -88,8 +88,8 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    link: 'mailto:im.pengcheng.wang@gmail.com'
+  - icon: ai # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=4-L8wRMAAAAJ&hl=en
   - icon: github
@@ -101,6 +101,9 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/pengcheng-wang-779918254/
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
