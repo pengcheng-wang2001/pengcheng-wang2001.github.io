@@ -37,12 +37,12 @@ author_notes:
   - 'Co-first author'
   - 'Co-first author'
   - 'Co-first author'
-  - 'Co-second author'
-  - 'Co-second author'
-  - 'Co-second author'
-  - 'Co-second author'
-  - 'Co-second author'
-  - 'Co-second author'
+  - 
+  - 
+  - 
+  -
+  -
+  -
   - 
   - 
   - 
@@ -57,9 +57,9 @@ author_notes:
   - 
   - 
   - 
-  - 'Senior author'
-  - 'Senior author'
-  - 'Senior author'
+  -
+  -
+  -
 
 date: '2024-07-08T00:00:00Z'
 doi: ''
@@ -79,8 +79,8 @@ publication_short: In *ICW*
 abstract: Global investigation of medulloblastoma has been hindered by the widespread inaccessibility of molecular subgroup testing and paucity of data. To bridge this gap, we established an international molecularly characterized database encompassing 934 medulloblastoma patients from thirteen centers across China and the United States. We demonstrate how image-based machine learning strategies have the potential to create an alternative pathway for non-invasive, presurgical, and low-cost molecular subgroup prediction in the clinical management of medulloblastoma. Our robust validation strategies—including cross-validation, external validation, and consecutive validation—demonstrate the model’s efficacy as a generalizable molecular diagnosis classifier. The detailed analysis of MRI characteristics replenishes the understanding of medulloblastoma through a nuanced radiographic lens. Additionally, comparisons between East Asia and North America subsets highlight critical management implications. We made this comprehensive dataset, which includes MRI signatures, clinicopathological features, treatment variables, and survival data, publicly available to advance global medulloblastoma research.
   
 # Summary. An optional shortened abstract.
-summary: 1. AI-enabled MRI enables presurgical molecular subgroup prediction in medulloblastoma. 2. Computational and manual MRI signatures are complementary to AI diagnostics in MB. 3. Internal, external, and consecutive validations highlight model generalizability. 4. The publicly available dataset from 13 centers advances global medulloblastoma research
-  
+summary: AI-enabled MRI enables presurgical molecular subgroup prediction in medulloblastoma.
+
 tags: []
 
 # Display this page in the Featured widget?
