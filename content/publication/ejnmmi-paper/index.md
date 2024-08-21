@@ -41,7 +41,7 @@ publication_short: "EJNMMI, 2023"
 
 abstract: In this multicenter study, five AI models were investigated for restoring low-count whole-body PET/MRI, covering convolutional benchmarks — U-Net, enhanced deep super-resolution network (EDSR), generative adversarial network (GAN) — and the most cutting-edge image reconstruction transformer models in computer vision to date — Swin transformer image restoration network (SwinIR) and EDSR-ViT (vision transformer). The models were evaluated against six groups of count levels representing the simulated 75%, 50%, 25%, 12.5%, 6.25%, and 1% (extremely ultra-low-count) of the clinical standard 3 MBq/kg 18F-FDG dose. The comparisons were performed upon two independent cohorts — (1) a primary cohort from Stanford University and (2) a cross-continental external validation cohort from Tübingen University — in order to ensure the findings are generalizable. A total of 476 original count and simulated low-count whole-body PET/MRI scans were incorporated into this analysis.
 # Summary. An optional shortened abstract.
-summary: 'Published in **EJNMMI (2023)**'
+summary: 'Published in **EJNMMI 2023**'
   
 tags: []
 
